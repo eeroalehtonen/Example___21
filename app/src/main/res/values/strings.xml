@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Example___21</string>
+    <string name="text">Send Feedback</string>
+    <string name="send">Send</string>
+    <string name="nappi">clear</string>
+    <string name="etunimi">First name</string>
+    <string name="sukunimi">Last name\n</string>
+    <string name="enterphone">\Phone number\n</string>
+    <string name="Comment">Comment</string>
+</resources>
